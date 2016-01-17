@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patang.CSharp.Plugins", "patang.CSharp.Plugins.csproj", "{C2CE3DAC-27F9-B5C3-E0F1-B1E23EEE9449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patang.CSharp", "patang.CSharp.csproj", "{DE1B2590-3C5F-F9D9-5531-CE8F0357D782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patang.CSharp.Editor.Plugins", "patang.CSharp.Editor.Plugins.csproj", "{EB4A5504-2FF2-19BF-04D7-54E5A5A67F1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2CE3DAC-27F9-B5C3-E0F1-B1E23EEE9449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CE3DAC-27F9-B5C3-E0F1-B1E23EEE9449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CE3DAC-27F9-B5C3-E0F1-B1E23EEE9449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CE3DAC-27F9-B5C3-E0F1-B1E23EEE9449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE1B2590-3C5F-F9D9-5531-CE8F0357D782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE1B2590-3C5F-F9D9-5531-CE8F0357D782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE1B2590-3C5F-F9D9-5531-CE8F0357D782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE1B2590-3C5F-F9D9-5531-CE8F0357D782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB4A5504-2FF2-19BF-04D7-54E5A5A67F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4A5504-2FF2-19BF-04D7-54E5A5A67F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4A5504-2FF2-19BF-04D7-54E5A5A67F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4A5504-2FF2-19BF-04D7-54E5A5A67F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
